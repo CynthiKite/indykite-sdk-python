@@ -9,6 +9,9 @@ omit =
   jarvis_sdk/cmd/helper.py
   jarvis_sdk/cmdconfig/helper.py
   jarvis_sdk/model/unique_name_identifier.py
+  jarvis_sdk/model/email.py
+  jarvis_sdk/model/email_attachment.py
+  jarvis_sdk/model/sendgrid_email_provider.py
   tests/*
 
 [report]
