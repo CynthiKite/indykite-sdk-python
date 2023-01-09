@@ -1383,3 +1383,45 @@ def delete_oauth2_application(self, local, oauth2_application_id, etag, bookmark
     config = client_config.delete_oauth2_application(oauth2_application_id, etag, bookmarks)
     print(config)
 ```
+
+## SDK Development
+
+Commit message follows
+[commit guidelines](./doc/guides/commit-message.md#commit-message-guidelines)
+
+## Roadmap
+
+Checkout our roadmap on our
+[issues page](https://github.com/indykite/jarvis-sdk-go/issues)
+
+## Contributing
+
+[Contribution guidelines for this project](contributing.md)
+
+## Support, Feedback, Connect with other developers
+
+We'd love to have you connect with us or other community developers over at
+[IndyKite.one](https://indykite.one)
+
+Feel free to file a bug, submit an issue or give us feedback on our
+[issues page](https://github.com/indykite/jarvis-sdk-go/issues)
+
+## Vulnerability Reporting
+
+[Responsible Disclosure](responsible_disclosure.md)
+
+## Changelog
+
+Coming soon!
+
+## Contributers / Acknowledgements
+
+Coming soon!
+
+## What is IndyKite
+
+IndyKite is a cloud identity platform built to secure and manage human & non-person (IoT) identities and their data. Based on open source standards, the cloud platform gives developers the ability to secure data and embed identity controls into their Web 3.0 applications. Empowering the world’s 23 million developers without the need to involve security and identity specialists.
+
+## License
+
+[This project is licensed under the terms of the Apache 2.0 license.](LICENSE)
